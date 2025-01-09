@@ -1,4 +1,5 @@
- import javax.swing.*;
+package com.example.wordcounter;
+import javax.swing.*;
  import java.awt.*;
  import java.awt.event.*;
 
